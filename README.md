@@ -1,4 +1,4 @@
-# Task1 - KidClubZones
+# Task2 - Community Login
 
 This is a `Html, Css and Javascript` project.
 
