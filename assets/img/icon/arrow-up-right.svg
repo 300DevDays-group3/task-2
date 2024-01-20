@@ -1,0 +1,55 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#1E1E1E"/>
+<g id="Section 1">
+<path d="M-548 -2132C-548 -2133.1 -547.105 -2134 -546 -2134H1529C1530.1 -2134 1531 -2133.1 1531 -2132V1972C1531 1973.1 1530.1 1974 1529 1974H-546C-547.105 1974 -548 1973.1 -548 1972V-2132Z" fill="#404040"/>
+<path d="M-546 -2133H1529V-2135H-546V-2133ZM1530 -2132V1972H1532V-2132H1530ZM1529 1973H-546V1975H1529V1973ZM-547 1972V-2132H-549V1972H-547ZM-546 1973C-546.552 1973 -547 1972.55 -547 1972H-549C-549 1973.66 -547.657 1975 -546 1975V1973ZM1530 1972C1530 1972.55 1529.55 1973 1529 1973V1975C1530.66 1975 1532 1973.66 1532 1972H1530ZM1529 -2133C1529.55 -2133 1530 -2132.55 1530 -2132H1532C1532 -2133.66 1530.66 -2135 1529 -2135V-2133ZM-546 -2135C-547.657 -2135 -549 -2133.66 -549 -2132H-547C-547 -2132.55 -546.552 -2133 -546 -2133V-2135Z" fill="white" fill-opacity="0.1"/>
+<g id="Blog page header" clip-path="url(#clip0_3081_42)">
+<rect width="1440" height="2482" transform="translate(-448 -2026)" fill="white"/>
+<g id="Section">
+<g id="Container">
+<g id="Content">
+<g id="Row">
+<g id="Blog post card" filter="url(#filter0_dd_3081_42)">
+<rect width="384" height="580" transform="translate(-336 -332)" fill="white"/>
+<g id="Content_2">
+<g id="Heading and subheading">
+<g id="Heading and text">
+<g id="Heading and icon">
+<g id="Icon wrap">
+<g id="arrow-up-right">
+<path id="Icon" d="M7 17L17 7M17 7H7M17 7V17" stroke="#101828" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_dd_3081_42" x="-348" y="-332" width="408" height="604" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="2" operator="erode" in="SourceAlpha" result="effect1_dropShadow_3081_42"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="3"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0627451 0 0 0 0 0.0941176 0 0 0 0 0.156863 0 0 0 0.03 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_3081_42"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="4" operator="erode" in="SourceAlpha" result="effect2_dropShadow_3081_42"/>
+<feOffset dy="12"/>
+<feGaussianBlur stdDeviation="8"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0627451 0 0 0 0 0.0941176 0 0 0 0 0.156863 0 0 0 0.08 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_3081_42" result="effect2_dropShadow_3081_42"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_3081_42" result="shape"/>
+</filter>
+<clipPath id="clip0_3081_42">
+<rect width="1440" height="2482" fill="white" transform="translate(-448 -2026)"/>
+</clipPath>
+</defs>
+</svg>
