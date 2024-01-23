@@ -1,0 +1,50 @@
+.projects {
+    background-color: #fff;
+    padding: 32px 0;
+    margin-top: 2rem;
+  }
+  
+  .project-pic {
+    width: 25%;
+    height: 20%;
+  }
+  
+  .projects-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .projects-title, p {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .project-container {
+    text-align: center;
+    width: 21.875rem;
+    padding: 1rem;
+  }
+
+  .project-container p {
+    padding: 0.4rem;
+  }
+  .project-title {
+    margin-bottom: 0.5rem;;
+    color: #18181B;
+
+  }
+
+  .project-details {
+    margin-bottom: 0.5rem;;
+  }
+  
+  .project-card {
+    background-color: #fff;
+    border-radius: 11px;
+    box-shadow: 3px 3px 0 0 #f6f6f4;
+    padding: 20px;
+    margin: 10px;
+  }
+  
+  
