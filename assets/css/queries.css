@@ -1,0 +1,43 @@
+@media (max-width: 80em) {
+  .blogpost-7___section {
+    padding: 3.2rem 6.4rem;
+  }
+
+  .blogpost-7___heading {
+    font-size: 2rem;
+  }
+
+  .blogpost-7___text {
+    font-size: 1.4rem;
+  }
+}
+
+@media (max-width: 56em) {
+  .blogpost-7__container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 3.6rem;
+  }
+
+  .blogpost-7___section {
+    padding: 0 4.8rem;
+  }
+
+  .blogpost-7__card {
+    padding: 1rem;
+  }
+}
+
+@media (max-width: 34em) {
+  html {
+    font-size: 50%;
+  }
+  .blogpost-7__container {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .blogpost-7___section {
+    padding: 0 2.4rem 0 3.2rem;
+  }
+}
