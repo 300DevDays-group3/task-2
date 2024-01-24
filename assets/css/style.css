@@ -69,7 +69,6 @@ html {
   justify-content: center;
   align-items: center;
   gap: 0.625rem;
-  flex-shrink: 0;
 }
 .centered-form {
   display: flex;
@@ -145,7 +144,6 @@ input {
   line-height: normal;
   cursor: pointer;
 }
-
 /* SECTION 3 STYLES ENDS HERE */
 
 /* SECTION SEVEN STARTS*/
