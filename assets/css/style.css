@@ -226,7 +226,6 @@ input {
 .blogpost-7__container {
   max-width: 130rem;
   margin: 0 auto;
-
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 6.4rem;
@@ -499,3 +498,73 @@ input {
 }
 
 /* SECTION NINE END */
+
+/* Task section */
+.task {
+  width: 80rem;
+  margin: 30px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.task-text {
+  width: 26.9375rem;
+  height: 15.875rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.task-text h1 {
+  color: #18181b;
+  /* PJ/Bold/42px */
+  font-family: "Plus Jakarta Sans";
+  font-size: 2.625rem;
+
+  line-height: 3rem; /* 114.286% */
+}
+.btn-task {
+  width: 11.1875rem;
+  height: 3.5rem;
+  padding: 1rem;
+  border-radius: 0.625rem;
+  background: #18181b;
+  color: #fff;
+}
+.task-image {
+  width: 37.5625rem;
+  height: 22.9375rem;
+  flex-shrink: 0;
+  border-radius: 0.625rem;
+  border: 1px solid var(--gray-200, #e4e4e7);
+  background: #fff;
+  /* Shadow 2 */
+  box-shadow: 0px 42.444px 61.308px 0px rgba(0, 0, 0, 0.08);
+}
+.task-image img {
+  margin-left: 0.88rem;
+  margin-block: 0.81rem;
+}
+.line {
+  background: #f4f4f5;
+}
+.your-tasks {
+  padding: 15px;
+}
+.checkbox {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+.checkbox input {
+  width: 1.25rem;
+  height: 1.25rem;
+  border-radius: 0.125rem;
+  border: 1px solid #d4d4d8;
+  background: #fff;
+}
+.task-avatar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
