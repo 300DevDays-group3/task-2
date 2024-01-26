@@ -25,6 +25,9 @@
   input {
     width: 100%;
   }
+  .search-bar {
+    width: 100%;
+  }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
